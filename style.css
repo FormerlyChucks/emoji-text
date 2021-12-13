@@ -1,0 +1,39 @@
+html {
+    background-color: #000000;
+}
+
+.header {
+    background-color: pink;
+    color: black;
+}
+
+.background {
+    background-color: beige;
+    color: white;
+}
+
+.inlines1 {
+    padding:2px;
+}
+
+.inlines2 {
+    width:18px;
+    padding-right:4px;
+}
+
+.inlines3 {
+    border:1px #ffffff solid;
+}
+
+.inlines4 {
+    line-height:12pt;
+    height:10px;
+}
+
+.inlines5 {
+    height:10px;
+}
+
+.inlines6 {
+    height:20px;
+}
